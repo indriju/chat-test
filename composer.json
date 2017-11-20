@@ -1,0 +1,21 @@
+{
+    "name": "indri/yii2-chat",
+    "description": "yii2 chat ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","chat"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "indri",
+            "email": "indri.sari17@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "indri\\chat\\": ""
+        }
+    }
+}
